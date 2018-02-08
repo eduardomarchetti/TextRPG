@@ -5,13 +5,13 @@ class Carro{
         this.turnOn = turnOn;
     };
 
-    defCar(){
+    /*defCar(){
         let carros = document.getElementById(1).value
         let cor = document.getElementById(2).value
         let ligaDes = document.getElementById(3).value
         
         const car = new Nissan(`${carros}, ${cor}, ${ligaDes}`);
-    }
+    }*/
 
     speak() {
         //Ifs mostram se o carro esta ligado ou desligado!
